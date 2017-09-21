@@ -1,2 +1,7 @@
 # Translate-to-Chinese-numbers
-Translate to Chinese numbers
+/*
+  請寫一個程式將阿拉伯數字金額轉換成中文方式表示，ex:
+  
+  7609802 =柒佰陸拾萬玖千捌佰零貳元整 ;
+  1009040300 = 拾億玖佰零肆萬三佰元整。 
+*/ 
